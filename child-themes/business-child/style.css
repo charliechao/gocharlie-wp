@@ -1,0 +1,20 @@
+/*
+ Theme Name:   Business Child
+ Theme URI:    
+ Description:  Business Theme Child
+ Author:       Charlie Chao
+ Author URI:   
+ Template:     business
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  Business-child
+*/
+
+@import url("../business/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+#menu li a {
+color: red;
+
+}
